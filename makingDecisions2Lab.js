@@ -7,7 +7,9 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
-
+console.log(`Problem 1: \n`)
+let firstItem = arr[0]
+console.log(`Problem 1: \n`)
 
 ////////// PROBLEM 2 //////////
 /*
